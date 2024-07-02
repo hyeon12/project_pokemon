@@ -23,11 +23,6 @@ public class MypageService {
         form.setUserType(member.getUserType());
         form.setRegDt(member.getRegDt());
 
-//        form.getEmail();
-//        form.getUserName();
-//        form.getUserType();
-//        form.getRegDt();
-
         return form;
     }
 }
